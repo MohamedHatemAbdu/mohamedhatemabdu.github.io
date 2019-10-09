@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
 
-### More Information
+I have been working for 5 years in developing, maintaining and delivering android applications with a high performance, neat and responsive user interface.
 
-A place to include any other types of information that you'd like to include about yourself.
+All my time, i am thinking in how to make a well designed software, applying the best practices and making the software well archticted where the design helping in fast delievery and ease of maintinig not for making the code only looks beautiful.
+
+ 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[mohamedhatemabdu@gmail.com](mohamedhatemabdu@gmail.com)
